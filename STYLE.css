@@ -1,0 +1,411 @@
+.hamburger {
+    margin-left: 1200px;
+}
+
+.a1 {
+    height: 5740px;
+    width: 100%;
+}
+
+.toyato {
+    margin-top: -35px;
+    margin-left: 120px;
+}
+
+.toyatocar {
+    height: 700px;
+    padding-top: 70px;
+    padding-left: 260PX;
+}
+
+.toyatofont {
+    height: 300px;
+    width: 800px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: "sandy";
+    font-size: 35px;
+}
+
+@font-face {
+    font-family: "sandy";
+    src: url(Oswald/Oswald-VariableFont_wght.ttf);
+}
+
+.paragraph {
+    padding-bottom: 40px;
+    font-size: 16px;
+    font-family: "sandy1";
+}
+
+@font-face {
+    font-family: "sandy1";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+.dhoni {
+    height: 550px;
+    width: 100%;
+    display: flex;
+    margin-top: -50px;
+
+}
+
+.msd1 {
+    height: 550px;
+    width: 1010px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-left: -300px;
+
+
+}
+
+
+.msd3 {
+
+    margin-left: -130px;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 50px;
+    font-family: "sandy2";
+}
+@font-face{
+    font-family: "sandy2";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.msd4{
+    height: 20px;
+    width: 110px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 25px;
+    background-image: linear-gradient(to right, #84abec, #cf84fb);
+}
+
+.bravo {
+    height: 590px;
+    width: 100%;
+
+
+}
+
+.dj1 {
+    height: 480px;
+    width: 800px;
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+
+.dj2 {
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    margin-top: -500px;
+    margin-left: 50px;
+    font-family: "sandy3";
+}
+.dj3{
+    height: 20px;
+    width: 140px;
+    border-radius: 25px;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color: #111111;
+    color: honeydew;
+    font-size: 16px;
+    
+}
+@font-face{
+    font-family:"sandy3" ;
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf  );
+}
+
+.hardik {
+    
+    height: 600px;
+    width: 100%;
+
+}
+
+.pandya1 {
+    height: 450px;
+    width: 830px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.pandya2 {
+    margin-top: -540px;
+    margin-left: 50px;
+}
+@font-face{
+    font-family: "sandy4";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.pandya3 {
+    height: 475px;
+    width: 380px;
+    margin-left: 115px;
+    margin-top: -110px;
+    font-family: "sandy4";
+    font-size: 17PX;
+
+
+}
+
+.pandya4 {
+    background-color: #2cbdbf;
+    color: #e6e6e6; 
+    height: 20px;
+    width: 110px;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 16px;
+    margin-top: 80px;
+   margin-left:10px;
+}
+
+.virat {
+    height: 550px;
+    width: 100%;
+    display: flex;
+    margin-top: -50px;
+
+}
+
+.kohli1 {
+    height: 550px;
+    width: 1200px;
+    margin-left: -400px;
+
+
+}
+@font-face{
+    font-family: "sandy5";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.kohli2 {
+    height: 460px;
+    width: 460px;
+    margin-top: 110px;
+    text-align: left;
+    margin-right: -100px;
+    font-size: 18px;
+    font-family: "sandy5";
+}
+
+.kohli3 {
+    height: 20px;
+    width: 110px;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 16px;
+    margin-top: 50px;
+    color: #ffffff;
+    background-color: #000000;
+
+}
+
+
+.jadeja {
+    height: 550px;
+    width: 100%;
+    background-image: linear-gradient(-90deg, #cf84fb, #35ced0);
+
+  
+
+
+}
+@font-face{
+    font-family: "sandy6";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.jaddu1 {
+    height: 420px;
+    width: 450px;
+    font-size: 19px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    color: #ffffff;
+    font-family: "sandy6";
+
+}
+
+.jaddu2 {
+    height: 450px;
+    width: 550px;
+    margin-top: -420px;
+    margin-left: 735px;
+
+
+
+}
+
+.jaddu3 {
+    font-size: 20px;
+    margin-left: 860px;
+    margin-top: -180px;
+
+}
+
+.jaddu4 {
+    height: 20px;
+    width: 110px;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 16px;
+    margin-top: -230px;
+    
+    margin-left: 850px
+    
+}
+.jaddu5{
+    padding-top: 140px;
+    
+}
+
+
+.curran {
+    height: 620px;
+    width: 100%;
+    display: flex;
+}
+
+.sam1 {
+    height: 600px;
+    width: 800px;
+}
+
+.sam2 {
+    height: 400px;
+    width: 450px;
+    margin-top: 170px;
+    margin-left: -120px;
+
+    font-size: 18px;
+
+}
+
+.sam3 {
+    height: 20px;
+    width: 90px;
+    border-radius: 25px;
+    padding: 5px;
+    
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-image: linear-gradient(to right, #84abec, #cf84fb);
+    color: ivory;
+}
+
+.sam4 {
+    margin-top: 130px;
+    margin-left: -10px;
+
+
+}
+@font-face{
+    font-family: "sandy7";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.sam5 {
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: "sandy7";
+}
+
+.stokes {
+    height: 250px;
+    width: 100%;
+}
+
+.ben1 {
+    margin-left: 125px;
+}
+
+.ben2 {
+    margin-left: 170px;
+    margin-top: -90px;
+    font-size: 16px;
+}
+@font-face{
+    font-family: "sandy8";
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.ben3{
+    font-family:"sandy8";
+}
+
+.interior {
+    height: 660px;
+    width: 100%;
+
+}
+.space1,.space2{
+    
+    display: flex;
+}
+
+.interior1,
+.interior2,
+.interior3,
+.interior4 {
+    height: 330px;
+    width: 330x;
+
+}
+.interior5,
+.interior6,
+.interior7,
+.interior8 
+{
+    height: 330px;
+    width: 330px;
+
+}
+.joe{
+    height: 350px;
+    width: 100%;
+    background-color: #2b2933;
+    margin-top: -70px;
+}
+.root1{
+    height: 76px;
+    width: 93px;
+    margin-left: 600px;   
+    margin-top: 70px;
+    padding-top: 20px;
+}
+.root2,.root3,.root4{
+   
+    height: 200px;
+    width: 100%;
+   
+    margin-top: 40px;
+    margin-left: 100px;
+    color: #ffffff;
+    
+}
+.joe1{
+    display: flex;
+    padding-top: -20px;
+}
+.yuvraj{
+    background-color: #333333;
+    border: 1px solid;
+    height: 100px;
+    width: 100%;
+}
+.singh{
+    margin-left: 550px;
+    margin-top: 50px;
+    color: gainsboro;
+}
